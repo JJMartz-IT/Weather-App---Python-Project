@@ -32,7 +32,7 @@ Windows: venv\Scripts\activate
 
 pip install -r 
 
-[requirements.md](https://github.com/JJMartz-IT/Home-Lab-Projects-2026/blob/22e3de8757650e8b69a59312e6891bc29c5644c0/Weather-CLI%20Requirements.md)
+[requirements.md](https://github.com/JJMartz-IT/Weather-App---Python-Project/blob/c9a8e344b81676529ce456e584739384f5310ca6/Weather%20CLI%20Requirements.md)
 
 ### Usage
 python weather.py
