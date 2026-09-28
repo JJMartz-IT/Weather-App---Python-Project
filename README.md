@@ -17,3 +17,20 @@ Created a GUI that contains the title of the application, an input field, a desc
 
 <img width="711" height="275" alt="Screenshot 2026-09-27 181609" src="https://github.com/user-attachments/assets/b99105e1-43ae-4430-8774-748f85dfe976" />
 
+Added a search box definitions that allows function for button
+
+<img width="891" height="229" alt="Screenshot 2026-09-27 184122" src="https://github.com/user-attachments/assets/fbb39c83-a609-4f7c-8dce-d9bed377d619" />
+
+Added Enter Key functionality
+
+<img width="519" height="20" alt="Screenshot 2026-09-27 184530" src="https://github.com/user-attachments/assets/8af93457-a356-437a-9213-bdaef1b9a521" />
+
+Tested using command prompt line
+
+<img width="713" height="29" alt="Screenshot 2026-09-27 184617" src="https://github.com/user-attachments/assets/fbf96f78-07dc-4133-922d-638302d3be92" />
+
+Results:
+
+<img width="314" height="187" alt="Screenshot 2026-09-27 184646" src="https://github.com/user-attachments/assets/424e4a44-cb95-46f2-bc0d-5565db6f9602" />
+
+<img width="316" height="185" alt="Screenshot 2026-09-27 184710" src="https://github.com/user-attachments/assets/af52f9fc-6bc2-4ccc-ae48-7a0271e72e0e" />
