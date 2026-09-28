@@ -12,3 +12,8 @@ After creating this code I decided to make a GUI using Python with Tkinter
 I then added the CLI code from the previous project as the base of my new GUI project
 
 <img width="585" height="812" alt="Screenshot 2026-09-27 181312" src="https://github.com/user-attachments/assets/85f5cdb3-fa81-4a68-aae4-f9fe17da93a0" />
+
+Created a GUI that contains the title of the application, an input field, a descriptor of the field, and a search button
+
+<img width="711" height="275" alt="Screenshot 2026-09-27 181609" src="https://github.com/user-attachments/assets/b99105e1-43ae-4430-8774-748f85dfe976" />
+
